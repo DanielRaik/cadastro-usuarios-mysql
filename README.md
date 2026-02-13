@@ -18,7 +18,7 @@ Frontend, Backend e Banco de Dados.
 - Armazenamento em banco de dados MySQL
 - Comunicação via API REST
 
-## ▶️ Como rodar o projeto localmente
+## Como rodar o projeto localmente
 
 ### Backend
 ```bash
